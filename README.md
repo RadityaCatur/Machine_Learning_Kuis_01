@@ -1,9 +1,11 @@
 # Machine_Learning_Kuis_01
 
 Heatmap
+
 ![heatmap](images/heatmap.jpeg)
 
 Graph
+
 ![plot](images/plot.jpeg)
 
 Hasil dan Kesimpulan
